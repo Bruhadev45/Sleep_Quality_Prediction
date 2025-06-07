@@ -50,3 +50,20 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
+
+## Running the Training Script
+
+To train the model from the command line and save it to the `models` directory:
+
+```bash
+python train_model.py
+```
+
+## Running Tests
+
+Tests are written with `pytest`. After installing the dependencies listed in
+`requirements.txt`, run:
+
+```bash
+pytest
+```
