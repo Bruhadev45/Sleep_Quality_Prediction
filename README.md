@@ -20,10 +20,10 @@ To explore and run the notebook:
 
 2. **Install the required packages**:
 
-   Ensure you have Python installed. Then, install the necessary libraries:
+   Ensure you have Python installed. Then, install the dependencies listed in `requirements.txt`:
 
    ```bash
-   pip install pandas numpy scikit-learn matplotlib seaborn
+   pip install -r requirements.txt
    ```
 
 3. **Launch the Jupyter Notebook**:
